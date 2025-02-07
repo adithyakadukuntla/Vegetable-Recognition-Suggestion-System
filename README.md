@@ -65,11 +65,8 @@ npm start
 - The system recognizes it as **Spinach**.
 - The recommendation engine suggests **spinach, beetroot, and carrots** as beneficial vegetables.
 
-## 📸 Screenshots
-_Add relevant screenshots of the UI and working system here._
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit a PR or raise an issue.
+
 
 ## 📜 License
 This project is licensed under the MIT License.
@@ -80,6 +77,6 @@ This project is licensed under the MIT License.
 - Users and testers for feedback and improvements.
 
 ---
-🔗 **Author**: [Your Name](https://your-portfolio-link.com)  
-📧 **Contact**: your-email@example.com
+🔗 **Author**: [Adithya K]()  
+📧 **Contact**:adhichiru634@gmail.com
 
